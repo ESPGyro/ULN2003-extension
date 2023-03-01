@@ -1,7 +1,7 @@
 ({
     name: "步進馬達", // Category Name
     description: "Set angle to stepper motor",
-    author: "mason",
+    author: "Mason",
     category: "Device Control",
     version: "1.0.0",
     icon: "/static/uln2003.png", // Category icon
